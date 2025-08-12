@@ -1,0 +1,5 @@
+gspread
+transformers
+pandas
+torch
+torchaudio
